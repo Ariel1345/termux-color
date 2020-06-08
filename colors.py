@@ -18,19 +18,19 @@ print ("6: Cyan")
 print ("7: Gray")
 Color = input ("Enter a number: ")
 if Color == 1:
-         print (green)
+      print (green)
 elif Color == 2:
-          print (red)
+      print (red)
 elif Color == 3:
-           print (blue)
+      print (blue)
 elif Color ==4:
-            print (yellow)
+      print (yellow)
 elif Color ==5:
-             print (purple)
+      print (purple)
 elif Color ==6:
-              print (cyan)
+      print (cyan)
 elif Color ==7:
-               print (gray)
+      print (gray)
 else:
        print ("Wrong")
 os.system ("clear")
