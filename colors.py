@@ -32,7 +32,7 @@ elif Color ==6:
 elif Color ==7:
       print (gray)
 else:
-       print ("Wrong")
+      print ("Wrong")
 os.system ("clear")
 
 
